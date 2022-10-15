@@ -19,6 +19,7 @@ public class Main {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This message comes from the main() method");
+        System.out.println("This message comes from the US-built JAR file");
         tryTDDFirst();
     }
     
